@@ -1,18 +1,20 @@
+
+
 # MAGiST3R
 
 ## Videos
 
-**Apart-0**
+**Apart-0** Multi-agent Merging
 
-<video src="VIDEO_URL_APART_0" controls muted width="100%"></video>
+<video src="https://github.com/user-attachments/assets/a4aab1db-3379-4322-aeb6-3b13549cca80" controls muted width="100%"></video>
 
-**Apart-1**
+**Apart-1** Multi-agent Merging
 
-<video src="VIDEO_URL_APART_1" controls muted width="100%"></video>
+<video src="https://github.com/user-attachments/assets/c731a77c-0db2-45a5-9351-e53ab4db11a0" controls muted width="100%"></video>
 
-**Apart-2**
+**Apart-2** Multi-agent Merging
 
-<video src="VIDEO_URL_APART_2" controls muted width="100%"></video>
+<video src="https://github.com/user-attachments/assets/ba663953-68c4-4292-a2fb-48c87b967b5d" controls muted width="100%"></video>
 
 ## Installation
 ```bash
@@ -21,7 +23,7 @@ pip install -r requirements.txt
 ```
 
 ## Weights
-Download the weights from [Google Drive](GOOGLE_DRIVE_LINK) and place them in `weights/`:
+Download the weights from [Google Drive](https://drive.google.com/drive/folders/1ed9KJUkVxSjvyTcDx8AIXFbcLVyvd2nB?usp=drive_link) and place them in `weights/`:
 ```
 weights/
 ├── magist3r.pth
@@ -33,7 +35,8 @@ weights/
 Place ReplicaMultiagent in `data/ReplicaMultiagent/<group>/<sequence>/results/` and AriaMultiagent in
 `data/AriaMultiagent/<room>/<agent>/results/` (RGB frames as `*.jpg`).
 
-## Demo
+## Run
+You can test on ReplicaMultiagent and AriaMultiagent datasets. We will soon release the multi-agent settings together with our new version. 
 ```bash
 bash scripts/run_ReplicaMultiagent.sh
 bash scripts/run_AriaMultiagent.sh
