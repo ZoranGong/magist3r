@@ -36,7 +36,7 @@ Place ReplicaMultiagent in `data/ReplicaMultiagent/<group>/<sequence>/results/` 
 `data/AriaMultiagent/<room>/<agent>/results/` (RGB frames as `*.jpg`).
 
 ## Run
-You can test on ReplicaMultiagent and AriaMultiagent datasets. We will soon release the multi-agent settings together with our new version. 
+You can test on ReplicaMultiagent and AriaMultiagent datasets. We will soon release the multi-agent settings together with our new version on more challenging scenes. 
 ```bash
 bash scripts/run_ReplicaMultiagent.sh
 bash scripts/run_AriaMultiagent.sh
