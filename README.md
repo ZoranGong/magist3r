@@ -18,7 +18,7 @@ https://github.com/user-attachments/assets/ba663953-68c4-4292-a2fb-48c87b967b5d
 
 ## Installation
 ```bash
-git clone --recursive <repo>
+git clone --recursive https://github.com/ZoranGong/magist3r.git
 pip install -r requirements.txt
 ```
 
