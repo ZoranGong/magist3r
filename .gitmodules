@@ -1,0 +1,6 @@
+[submodule "submodule/vggt-omega"]
+	path = submodule/vggt-omega
+	url = https://github.com/facebookresearch/vggt-omega.git
+[submodule "submodule/salad"]
+	path = submodule/salad
+	url = https://github.com/serizba/salad.git

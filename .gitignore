@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+results/
+weights/
+data/
+*.so
+build/
+videos/

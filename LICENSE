@@ -1,0 +1,8 @@
+Copyright [2024–present]
+
+MAGiST3R is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 License.
+It is built upon SLAM3R (CC BY-NC-SA 4.0) and contains code from DUSt3R / CroCo (Copyright Naver Corporation,
+CC BY-NC-SA 4.0). VGGT-Omega and SALAD are used as git submodules under their own licenses.
+
+To view a copy of the CC BY-NC-SA 4.0, visit:
+https://creativecommons.org/licenses/by-nc-sa/4.0/
