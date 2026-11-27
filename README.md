@@ -61,5 +61,19 @@ bash scripts/run_AriaMultiagent.sh
 ```
 Each agent writes `traj_c2w.txt` (one flattened 4x4 camera-to-world matrix per processed frame) and `<agent>_recon.ply` to `results/`.
 
+## Citation
+
+If you find our work helpful in your research, please consider citing: 
+```
+@inproceedings{gong2026magist3r,
+  title={Magist3r: Multi-agent feed-forward 3d reconstruction from monocular rgb videos},
+  author={Gong, Ziren and Li, Xiaohan and Tosi, Fabio and Xu, Ninghui and Mattoccia, Stefano and Cai, Jianfei and Poggi, Matteo},
+  booktitle={European Conference on Computer Vision},
+  pages={417--436},
+  year={2026},
+  organization={Springer}
+}
+```
+
 ## License
 CC BY-NC-SA 4.0, see [LICENSE](LICENSE).
