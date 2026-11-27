@@ -1,6 +1,24 @@
+<p align="center">
+  <h2 align="center">[ECCV2026] MAGiSt3R: Multi-Agent Feed-forward 3D Reconstruction from Monocular RGB Videos</h2>
+ <p align="center">
+    <a href="https://zorangong.github.io/">Gong Ziren</a>
+    ·
+    <a href="https://scholar.google.com/citations?hl=zh-CN&user=1P5NDzQAAAAJ">Xiaohan Li</a>
+    ·
+    <a href="https://fabiotosi92.github.io/">Tosi Fabio</a>
+    ·
+    <a href="https://openreview.net/profile?id=%7ENinghui_Xu1">Ninghui Xu</a>
+    ·
+    <a href="https://stefanomattoccia.github.io/">Stefano Mattoccia</a>
+    ·
+    <a href="https://jianfei-cai.github.io/">Jianfei Cai</a>
+    ·
+    <a href="https://mattpoggi.github.io/">Matteo Poggi</a>
+  </p>
+  <h3 align="center"><a href="https://arxiv.org/abs/2607.15211">Paper</a> | <a href="https://zorangong.github.io/magist3r_page/">Project Page</a> </h3>
+  <div align="center"></div>
+</p>
 
-
-# MAGiST3R
 
 ## Videos
 
