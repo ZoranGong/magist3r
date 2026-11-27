@@ -6,15 +6,15 @@
 
 **Apart-0** Multi-agent Merging
 
-<video src="https://github.com/user-attachments/assets/a4aab1db-3379-4322-aeb6-3b13549cca80" controls muted width="100%"></video>
+https://github.com/user-attachments/assets/a4aab1db-3379-4322-aeb6-3b13549cca80
 
 **Apart-1** Multi-agent Merging
 
-<video src="https://github.com/user-attachments/assets/c731a77c-0db2-45a5-9351-e53ab4db11a0" controls muted width="100%"></video>
+https://github.com/user-attachments/assets/c731a77c-0db2-45a5-9351-e53ab4db11a0
 
 **Apart-2** Multi-agent Merging
 
-<video src="https://github.com/user-attachments/assets/ba663953-68c4-4292-a2fb-48c87b967b5d" controls muted width="100%"></video>
+https://github.com/user-attachments/assets/ba663953-68c4-4292-a2fb-48c87b967b5d
 
 ## Installation
 ```bash
